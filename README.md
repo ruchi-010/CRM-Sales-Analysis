@@ -14,7 +14,7 @@ This project analyzes CRM and sales pipeline data using Google Sheets to uncover
 - Develop dashboards to visualize sales trends and KPIs
 - Generate actionable insights to improve sales performance
 
-[Download Transformed Sheet](CRM-Sales-Analysis/CRM_SALES_Sheets_File.xlsx)
+[Download Transformed Sheet](https://github.com/ruchi-010/CRM-Sales-Analysis/blob/main/CRM_SALES_Sheets_File.xlsx)
 
 # Data Structure
 The dataset follows a star schema with the Sales Pipeline as the central fact table, connected to dimension tables including Accounts, Products, and Sales Teams. This structure enables efficient analysis of sales performance across multiple dimensions.
