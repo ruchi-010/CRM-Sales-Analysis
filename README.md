@@ -1,6 +1,5 @@
 # Project Overview
-In this project, I performed end-to-end sales and CRM data analysis using Google Sheets to uncover insights into business performance and sales effectiveness. The dataset includes information on accounts, products, and sales teams, allowing for a comprehensive analysis of deal outcomes and revenue trends.
-Through data cleaning, transformation, and visualization, I analyzed key KPIs such as win rate, average revenue per deal, and sales cycle time. The project showcases my ability to work with real-world business data, build dashboards, and communicate insights that can help improve sales strategy and overall performance.
+This project analyzes CRM and sales pipeline data using Google Sheets to uncover insights across accounts, products, and sales teams. Built on a star schema, it helps track deal performance, win rates, and revenue trends in a clear and structured way.
 
 # Key Focus Areas
 - Sales performance analysis across accounts, products, and sales teams
@@ -16,5 +15,8 @@ Through data cleaning, transformation, and visualization, I analyzed key KPIs su
 - Generate actionable insights to improve sales performance
 
 #Data Structure
-The dataset follows a star schema with the Sales Pipeline as the central fact table, connected to dimension tables including Accounts, Products, and Sales Teams. This structure enables efficient analysis of sales performance across multiple dimensions.<img width="1920" height="1080" alt="Data Structure" src="https://github.com/user-attachments/assets/d14c1ab5-a49c-413d-bda9-bad6268cf291" />
+The dataset follows a star schema with the Sales Pipeline as the central fact table, connected to dimension tables including Accounts, Products, and Sales Teams. This structure enables efficient analysis of sales performance across multiple dimensions.
+
 <img width="1920" height="1080" alt="Data Structure" src="https://github.com/user-attachments/assets/7ae4ad6c-0a15-4a4b-8c90-f6603650911c" />
+
+
