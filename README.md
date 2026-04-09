@@ -21,10 +21,9 @@ The dataset follows a star schema with the Sales Pipeline as the central fact ta
 
 <img width="1920" height="1080" alt="Data Structure" src="https://github.com/user-attachments/assets/7ae4ad6c-0a15-4a4b-8c90-f6603650911c" />
 
-# Executive Summar
+# Executive Summary
 
 ![Screenshot 2026-04-10 011822](https://github.com/user-attachments/assets/3018af07-745b-4b3f-bf46-91aecb486b8f)
-
 
 - Business generated **$10M+ in revenue** with a healthy **win rate of ~63%**
 - Sales cycle duration (**52 days**) suggests room for faster revenue realization
@@ -35,8 +34,24 @@ The dataset follows a star schema with the Sales Pipeline as the central fact ta
 - Sector-wise variation suggests **targeted market opportunities**
 
 ### Strategic Priorities
-
 - Improve **pipeline conversion efficiency**
 - Reduce **sales cycle time**
 - Scale best practices from **top-performing agents**
 - Focus on **high-value deals and key product lines**
+
+## Insights
+
+- **Revenue is concentrated in a few key sectors**:  
+  Retail leads with **$1.86M**, followed by Technology (**$1.51M**) and Medical (**$1.35M**), while sectors like Employment (**$436K**) and Services (**$533K**) lag significantly.
+
+- **Strong dependency on a single product series**:  
+  The **GTX series contributes $7.34M (~73% of total revenue)**, far exceeding MG (**$2.26M**) and GTK (**$400K**).
+
+- **Top products dominate revenue contribution**:  
+  **GTXPro ($3.51M)** and **GTX Plus Pro ($2.63M)** together account for over **60% of total revenue**, highlighting concentration in a few high-performing products.
+
+- **Leadership impact reflected in revenue outcomes**:  
+  Manager-level revenue ranges from **~$1.1M to $2.25M**, suggesting differences in team effectiveness and sales execution.
+
+- **Sales performance is highly skewed toward top agents**:  
+  The leading agent generates **$1.15M**, while most agents fall within the **$200K–$500K range**, with some contributing **no revenue**.
