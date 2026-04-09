@@ -19,4 +19,22 @@ The dataset follows a star schema with the Sales Pipeline as the central fact ta
 
 <img width="1920" height="1080" alt="Data Structure" src="https://github.com/user-attachments/assets/7ae4ad6c-0a15-4a4b-8c90-f6603650911c" />
 
+# Executive Summar
 
+![Screenshot 2026-04-10 011822](https://github.com/user-attachments/assets/3018af07-745b-4b3f-bf46-91aecb486b8f)
+
+
+- Business generated **$10M+ in revenue** with a healthy **win rate of ~63%**
+- Sales cycle duration (**52 days**) suggests room for faster revenue realization
+- Pipeline still holds **~23% of deals (open + prospect)**, representing untapped revenue potential
+- Product performance is concentrated, with **GTX series leading growth**
+- Clear performance disparity across sales teams, indicating scalability challenges
+- High-performing agents demonstrate **replicable success patterns**
+- Sector-wise variation suggests **targeted market opportunities**
+
+### Strategic Priorities
+
+- Improve **pipeline conversion efficiency**
+- Reduce **sales cycle time**
+- Scale best practices from **top-performing agents**
+- Focus on **high-value deals and key product lines**
