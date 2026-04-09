@@ -55,3 +55,21 @@ The dataset follows a star schema with the Sales Pipeline as the central fact ta
 
 - **Sales performance is highly skewed toward top agents**:  
   The leading agent generates **$1.15M**, while most agents fall within the **$200K–$500K range**, with some contributing **no revenue**.
+
+## Key Recommendations & Trade-offs
+- **Reduce dependency on GTX product line**  
+  Diversify the portfolio as the **GTX series contributes $7.34M (~73% of total $10M revenue)**, while MG contributes **$2.26M** and GTK only **$400K**.  
+  **Trade-off:** Shifting focus may impact short-term revenue since GTX is currently the strongest performer.
+
+- **Prioritize high-value product sales**  
+  Promote premium products like **GTXPro ($3.51M)** and **GTX Plus Pro ($2.63M)**, which together contribute over **60% of total revenue**, to increase deal value.  
+  **Trade-off:** Increased focus on high-value deals may reduce total deal volume.
+
+- **Leverage high-performing sectors**  
+  Focus on sectors like **Retail ($1.86M)** and **Technology ($1.51M)**, which are the top revenue contributors compared to lower sectors like **Employment ($436K)**.  
+  **Trade-off:** Over-investment in top sectors may limit diversification and future growth in smaller markets.
+
+- **Standardize best practices across sales teams**  
+  Scale strategies from top performers, where leading agents generate up to **$1.15M**, compared to many agents in the **$200K–$500K range** or even **$0 revenue**.  
+  **Trade-off:** Not all high-performer strategies may be applicable across different agents or regions.
+  
